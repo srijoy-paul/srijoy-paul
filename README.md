@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/sddecent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sddecent" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srijoy-paul-292a1919a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijoy-paul-292a1919a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/srijoy_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="srijoy_paul" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14965920/Srijoy_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="srijoy_paul" height="30" width="40" /></a>
 <a href="https://kaggle.com/srijoypaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srijoypaul" height="30" width="40" /></a>
 </p>
 
